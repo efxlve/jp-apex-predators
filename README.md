@@ -26,11 +26,11 @@ JPApexPredators is a Swift-based iOS app that brings the prehistoric world of Ju
 
 ### Home Screen
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/4c53c8a1-fd1f-4eae-af14-4bd71f641ddc">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/4c53c8a1-fd1f-4eae-af14-4bd71f641ddc">
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/1c5d5176-6bcf-4e36-a3b1-060fddb0f3e1">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/1c5d5176-6bcf-4e36-a3b1-060fddb0f3e1">
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/41f7b690-def4-47c8-8bf6-2a35df13e8e5">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/41f7b690-def4-47c8-8bf6-2a35df13e8e5">
 
 ## Info Screen
 
