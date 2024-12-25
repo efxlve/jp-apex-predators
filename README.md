@@ -1,4 +1,4 @@
-# 🦖 JPApexPredators
+# 🦖 JP Apex Predators
 
 JPApexPredators is a Swift-based iOS app that brings the prehistoric world of Jurassic Park to your fingertips. Using **MapKit**, **SwiftUI**, and a robust filtering system, the app allows users to explore and locate their favorite dinosaurs from the Jurassic Park film series.
 
